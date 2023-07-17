@@ -1,0 +1,1 @@
+flag = 'FPTUHacking{Us3_0f_s1ngl3_pr1m3_4nd_cl0se_prim3s_w3r3_w4st3_0f_c0mput3r_Cycl35}'

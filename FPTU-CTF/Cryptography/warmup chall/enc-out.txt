@@ -1,0 +1,8 @@
+- chall name : warmup challo
+
+- desc : Have you ever heard of computer encryptions?  
+- hint : Computer based encryption comes in many forms but there are a few algorithms that can be used for making cache texts. The Bouncy Castle library implements a wide selection of them.
+- cipher : 2XybIl+vvuoVmrGLwmDBQ3DApd4EcHtY8eEiWlaVGSE6lqRs3lpOJYwHOX/KQMSBDbojDb/JRWw=
+
+
+
