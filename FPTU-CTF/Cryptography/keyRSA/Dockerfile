@@ -3,7 +3,7 @@ FROM python:3.10
 RUN pip install pycryptodome
 RUN useradd -m ctf
 
-COPY ./enc.py /home/ctf/enc.py
+COPY src/. /home/ctf/
 RUN chmod +x /home/ctf/enc.py
 
 RUN chown -R root:root /home/ctf
